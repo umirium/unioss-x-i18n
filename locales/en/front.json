@@ -5,6 +5,7 @@
   "products": "Products",
   "aboutus": "About Us",
   "contact": "Contact",
+  "cart": "Cart",
   "// contact stepper": "",
   "customerInfo": "Customer info",
   "confirm": "Confirm",
@@ -35,5 +36,6 @@
   "aboutThisWebSite": "About this web site",
   "aboutProducts": "About products",
   "aboutAccess": "About access",
-  "other": "Other"
+  "other": "Other",
+  "// others": ""
 }
