@@ -37,5 +37,8 @@
   "aboutProducts": "About products",
   "aboutAccess": "About access",
   "other": "Other",
-  "// others": ""
+  "// others": "",
+  "mypage": "My page",
+  "yourCartIsEmpty": "Your cart is empty",
+  "goToProducts": "Go to products"
 }
